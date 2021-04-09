@@ -1,6 +1,6 @@
 
-# (Prosper Loans Dataset Exploration)
-## by (Mohamed Magdy Ibrahim Mohamed)
+# Prosper Loans Dataset Exploration
+## by **Mohamed Magdy Ibrahim Mohamed**
 
 ## Dataset
 
